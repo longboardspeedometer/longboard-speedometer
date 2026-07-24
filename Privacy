@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Longboard Speedometer Privacy Policy</title>
+
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            line-height: 1.6;
+            color: #1f1f1f;
+        }
+
+        h1 {
+            margin-bottom: 8px;
+        }
+
+        h2 {
+            margin-top: 32px;
+        }
+
+        a {
+            color: #d95f02;
+        }
+
+        .updated {
+            color: #666;
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>Privacy Policy</h1>
+
+<p class="updated">
+Last updated: July 2026
+</p>
+
+<p>
+Longboard Speedometer is designed with privacy in mind. We do not require an account,
+do not sell your information, and do not collect personal data for advertising or analytics.
+</p>
+
+<h2>Location Data</h2>
+
+<p>
+Longboard Speedometer requests access to your device's location in order to:
+</p>
+
+<ul>
+    <li>Measure your speed</li>
+    <li>Record your ride route</li>
+    <li>Calculate distance traveled</li>
+    <li>Calculate elevation changes</li>
+</ul>
+
+<p>
+Location data is used only while recording rides and is stored locally on your device.
+We do not receive or store your location on our servers.
+</p>
+
+<h2>Ride Data</h2>
+
+<p>
+Ride information, including speed, route, elevation, weather, and ride statistics,
+is stored locally on your device.
+</p>
+
+<p>
+We do not upload your rides to our servers.
+</p>
+
+<h2>Accounts</h2>
+
+<p>
+Longboard Speedometer does not require you to create an account.
+</p>
+
+<h2>Analytics</h2>
+
+<p>
+Longboard Speedometer does not use third-party analytics or advertising services.
+</p>
+
+<h2>Third-Party Services</h2>
+
+<p>
+The app may use Apple services, such as Apple Maps or Apple's weather services,
+to provide functionality. Those services are governed by Apple's own privacy policies.
+</p>
+
+<h2>Children's Privacy</h2>
+
+<p>
+Longboard Speedometer is not directed toward children under the age of 13 and does
+not knowingly collect personal information from children.
+</p>
+
+<h2>Changes to This Policy</h2>
+
+<p>
+We may update this Privacy Policy from time to time. Changes will be posted on this page.
+</p>
+
+<h2>Contact</h2>
+
+<p>
+If you have any questions about this Privacy Policy, contact us at
+<a href="mailto:longboardspeedometer@gmail.com">
+longboardspeedometer@gmail.com
+</a>.
+</p>
+
+<p>
+Need help using the app? Visit our
+<a href="support.html">Support Page</a>.
+</p>
+
+</body>
+</html>
